@@ -1,0 +1,5 @@
+NAME="sugar-Words"
+VERSION=19
+RELEASE=1
+SUGAR_TYPE="honey"
+inherit sugar
